@@ -10,8 +10,8 @@
                 Products
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item ">Fish</a>
-                <a href="" class="dropdown-item ">Corals</a>
+                <a href="{% url 'products' %}?category=Fish" class="dropdown-item ">Fish</a>
+                <a href="{% url 'products' %}?category=Coral" class="dropdown-item ">Corals</a>
                 <a href="{% url 'products' %}" class="dropdown-item"> All Products</a>
             </div>
         </li>
