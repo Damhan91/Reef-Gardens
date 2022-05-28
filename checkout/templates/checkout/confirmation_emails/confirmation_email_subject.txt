@@ -1,0 +1,1 @@
+THank you for ordering on Reef Gardens. This is a confirmation for Order Number {{ order.order_number }}
