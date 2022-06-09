@@ -23,6 +23,8 @@ footer {
 
 .footer-icon {
     color: #000;
+    font-size: 200%;
+    padding-right: 100px;
 }
 
 /* from Bulma */
