@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-kjhvbx6x)4b(+dl(sks=fvn5(ra9!4v1+#cca%zstmw*9zi-#l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['reef-gardens.herokuapp.com', 'localhost']
 
 
 # Application definition
