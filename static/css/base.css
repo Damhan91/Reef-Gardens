@@ -315,17 +315,6 @@ input[name='q']::placeholder {
         height: calc(100vh - 116px);
     }
 
-    footer {
-        padding: .6rem .6rem;
-        font-size: 1rem;
-
-    }
-
-    .list-inline-item {
-        padding: .6rem .6rem;
-        font-size: 1rem;
-    }
-
     .display-4.logo-font.text-white {
         font-size: 2rem;
     }
