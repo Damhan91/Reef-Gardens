@@ -10,6 +10,15 @@ body {
     font-family: 'Lato';
 }
 
+/* Footer */
+
+footer {
+    background-color: white;
+    width: 100%;
+    position: relative;
+    margin-top:auto; 
+}
+
 /* from Bulma */
 .icon {
     align-items: center;
@@ -264,10 +273,6 @@ input[name='q']::placeholder {
     border-color: #dc3545;
     border-radius: 0;
 }
-
-
-/* MailChimp Css */
-
 
 /* fixed top navbar only on medium and up */
 @media (min-width: 992px) {
