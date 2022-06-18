@@ -3,7 +3,7 @@
 {% load bag_tools %}
 
 {% block page_header %}
-    <div class="container header-container">
+    <div class="container">
         <div class="row">
             <div class="col"></div>
         </div>
@@ -81,13 +81,13 @@
                                         {% include "bag/product-info.html" %}
                                     </td>
                                     <td class="py-3">
-                                        <p class="my-0">${{ item.product.price }}</p>
+                                        <p class="my-0">€{{ item.product.price }}</p>
                                     </td>
                                     <td class="py-3 w-25">
                                         {% include "bag/quantity-form.html" %}
                                     </td>
                                     <td class="py-3">
-                                        <p class="my-0">${{ item.product.price | calc_subtotal:item.quantity }}</p>
+                                        <p class="my-0">€{{ item.product.price | calc_subtotal:item.quantity }}</p>
                                     </td>
                                 </tr>
                             {% endfor %}
@@ -111,22 +111,24 @@
                         </span>
                         <span class="text-uppercase">Keep Shopping</span>
                     </a>
+                    <div class="space-maker"></div>
                 {% endif %}
             </div>
         </div>
     </div>
+    <div class="space-maker"></div>
 {% endblock %}
 
 {% block postloadjs %}
 {{ block.super }}
-<script type="text/javascript">
+<script>
     $('.btt-link').click(function(e) {
         window.scrollTo(0,0)
     })
 </script>
 {% include 'products/includes/quantity_input_script.html' %}
 
-<script type="text/javascript">
+<script>
     // Update quantity on click
     $('.update-link').click(function(e) {
         var form = $(this).prev('.update-form');
