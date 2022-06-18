@@ -19,6 +19,12 @@ footer {
     margin-top:auto; 
 }
 
+.footer-icon {
+    color: black;
+    size: 300%;
+}
+
+
 /* from Bulma */
 .icon {
     align-items: center;
