@@ -33,6 +33,12 @@ footer {
     min-height: calc(100vh - 56px);
 }
 
+.header-top{
+    margin-top: 200px;
+    margin-bottom:20px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
 .header {
     margin-top: 20px;
     margin-bottom:20px;
