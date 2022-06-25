@@ -64,10 +64,10 @@ IMAGE HERE
 **Products**
 The producst can be views from anywhere in the website. The user can choose to view all products or choose a specific category (fish or coral), once they are on their selected category they can choose from multiple choices to filter through the products (low to high price, a-z name etc).
 
-**About Us**
+**About Us**/
 The about us tab gives the user a short background on Reef gardens and what we are trying to achieve and accomplish.
 
-**Footer**
+**Footer**/
 The footer is located at the bottom of the website. This can be viewed from all webpages and have a few features within the footer
   * **Social Media links**: The social media links are displayed in very easy to see. it's important to have the social media link viable to ensure as many user as possible come and follow you lins.
   * **Newsletter Sign up**: The sign up form for newsletters is alos displayed in the footer. This allows the user to sign up for Reef Gardens Newsletter is the wish. This can also be viewed anywhere on the site
