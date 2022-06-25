@@ -2,7 +2,7 @@ AM I RESPONSIVE IMAGE
 
 Reef Gardens has been built for my 5th and final project for Code Institutes Full Stack Software Development program. Reef Gardens is an E-commerce Website, where customer can purchase and browse for either captive breed Marine fish or corals. The website provides a list of products that can be conveniently purchased from the store. After the user has selocted their goods, they are taken through the order confirmation process and collection of payment. This system is implemented using python and the Django framework.
 
-
+Link to Online Fitness can be found [Here][Link here]
 
 ## User Stories
 
