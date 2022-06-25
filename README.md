@@ -8,21 +8,50 @@ Reef Gardens has been built for my 5th and final project for Code Institutes Ful
 
 **Primary Goals**
   
-**As a first time user, I want to**
-  * Easily understand the main purpose of the website.
-  * Navigate through the site with ease.
-  * View a list of specific products of my choosing based on their category. So that I can select a particular category of       product from a specific list to buy.
-  * View the details of a single product. So that I can understand the details and price of the product and also see and         image of the product.
+**As a first time user, I want to:**
+  * Easily understand what the website is trying to achieve and unserstand its purpose
+  * NaBe able to navigate throuygh the website with ease
+  * View the list of products based on their category.
+  * View the details of a single products, so I can understand the details, price and rating if any.
   * Sort the view of products by price low to high. So that I can make an informed purchased based on price.
   * Sort the view of products by price high to low. So that I can make an informed purchased based on price.
-  * Be easily able to register and create my own account so I can have a personalised experience.
+  * Be able to register for an account, which would allow me to have a more personlised experince.
   * Easily view the value of my shopping cart anywhere on the website. So that I can understand how much I have selected.
-  * Easily view a summary of what's in my shopping cart, including all prices such as delivery and grand total price before I purchase. So that I can see how much I will be spending.
-  * Check out and purchase my items without having to log in. So that I can conveniently purchase items quickly.
-  * Have easy and quick access to the companies social media links.
-  * Search for a specific product using keywords in a search bar
-**A customer primary goals**
+  * I want to be able to easliy view the total amount in my shopping kart anywhere on the website. This will help me understand how much my total spend is.
+  * I want to be able to see what products are in my shopping bag, so ai can make adjustments if neccassary.
+  * Be able to add, remove, update and purchase items without having to sign in. This allows for ease of purchase.
+  * Access to the companies social media links.
+  * Easlily search for items in the search bar.
+  * Be able to sign up to a newsletter if I choose to do so. This will allow me to keep up do date with the companies newletters
+  
+**As a registered user, I want to:**
+  * Be able to login to my account with ease and view my orders
+  * Be able to logout with ease.
+  * View the list of products based on their category.
+  * Be able to update my payment and personnel details.
+  * Be able to view my order history.
 
+**As a super user, I want to:**
+  * Be able to add n ew prtoducts to the store.
+  * Edit and update existing store products to change pricing, images etc.
+  * Delete items from the store if neccassry.
+  
+**Business Model**
+I have chosen a B2C ( Businees to Customer) business model. This is more straight forward for the end user as they only have one point of contact. Having the business model B2C also allows for the customer to get the best price possible as you do not have to pay a middle man.
+
+The business flow is as follows:
+
+  * Reef Gardens breed fish and cultivate corals (captive breding program)
+  * The products are then set up on the website for the user to purchase.
+  
+**Marketing**
+For marketing Reef Gardens will use a FaceBook Business Page. Reef Gardens will also use Mailchimp for user who wish to sign up. THe user will be given a notification once they have succesfuly sign up.
+
+**Search Engine Optimisation**
+
+I researcherd some of the most popular words that is used for searching for tropical fish. I included them in the title and description.
+
+IMAGE HERE
 ## Release History
 
 We continually tweak and adjust this template to help give you the best experience. Here is the version history:
