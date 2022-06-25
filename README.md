@@ -74,6 +74,6 @@ The footer is located at the bottom of the website. This can be viewed from all 
 
 ## Wireframes
 Home : <details>
-           <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         [(https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)]
+         [https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG]
          </details>
