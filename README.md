@@ -4,7 +4,7 @@ Welcome Damhan91,
 
 Reef Gardens has been built for my 5th and final project for Code Institutes Full Stack Software Development program. Reef Gardens is an E-commerce Website, where customer can purchase and browse for either captive breed Marine fish or corals. The website provides a list of products that can be conveniently purchased from the store. After the user has selocted their goods, they are taken through the order confirmation process and collection of payment. This system is implemented using python and the Django framework.
 
-## User Experince
+## User Stories
 
 **Primary Goals**
   
@@ -36,7 +36,8 @@ Reef Gardens has been built for my 5th and final project for Code Institutes Ful
   * Edit and update existing store products to change pricing, images etc.
   * Delete items from the store if neccassry.
   
-**Business Model**
+
+## Business Model
 I have chosen a B2C ( Businees to Customer) business model. This is more straight forward for the end user as they only have one point of contact. Having the business model B2C also allows for the customer to get the best price possible as you do not have to pay a middle man.
 
 The business flow is as follows:
@@ -52,4 +53,20 @@ For marketing Reef Gardens will use a FaceBook Business Page. Reef Gardens will 
 I researcherd some of the most popular words that is used for searching for tropical fish. I included them in the title and description.
 
 IMAGE HERE
-## User Experince
+## Features 
+**Top Header**
+  * **Navigation bar**: The navigation bar is avaible throughout the website. This ensures that the user can access any page ant any time. It helps the user move through the website with ease.  
+  * **Search Bar**: The navigation bar is avaible throughout the website. This gives the user a great experince in seraching for an item qucikly,
+  * **Login/Logout and Register**: This is located at the top right hand corner of the website. This feature alows a user to either login, logout or register.
+  * **Shopping bag**: Againt he shopping bagh is also located in the top right hand corner of the website, which ensure the user will always have visability to the value of ther shopping bag and is also availible throughout the websitec
+  * **Checkout**: The checkout is accessed throught the shopping bag. When the user is happy with what they have chosen to purchase, they are brought to the checkout area, where thjey can see the summary of what the are about to buy and update their detials.
+  * **Payment**: The payment feature is used by implementing stripe. Once the user had finshed entering their shipping detisls, they can then enter their card details and are notified once their payment is successful.
+**Products**
+The producst can be views from anywhere in the website. The user can choose to view all products or choose a specific category (fish or coral), once they are on their selected category they can choose from multiple choices to filter through the products (low to high price, a-z name etc)
+**About Us**
+The about us tab gives the user a short background on Reef gardens and what we are trying to achieve and accomplish.
+**Footer**
+The footer is located at the bottom of the website. This can be viewed from all webpages and have a few features within the footer
+  * **Social Media links**: The social media links are displayed in very easy to see. it's important to have the social media link viable to ensure as many user as possible come and follow you lins.
+  * **Newsletter Sign up**: The sign up form for newsletters is alos displayed in the footer. This allows the user to sign up for Reef Gardens Newsletter is the wish. This can also be viewed anywhere on the site
+
