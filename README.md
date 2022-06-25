@@ -52,7 +52,9 @@ For marketing Reef Gardens will use a FaceBook Business Page. Reef Gardens will 
 
 I researcherd some of the most popular words that is used for searching for tropical fish. I included them in the title and description.
 
-IMAGE HERE
+![Meta Description](https://github.com/Damhan91/Reef-Gardens/blob/main/media/meta%20tags.JPG)
+
+
 ## Features 
 **Top Header**
   * **Navigation bar**: The navigation bar is avaible throughout the website. This ensures that the user can access any page ant any time. It helps the user move through the website with ease.  
@@ -87,8 +89,8 @@ Home<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
         </details>
 About<details>
-        ![Wireframe]
-        ![Wireframe]
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/About%20Us%20Wireframe.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/About%20Us%20Wireframe%20Mobile.JPG)
         </details>
 All Products<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20All%20Products%20Desktop.JPG)
