@@ -122,3 +122,20 @@ Bag<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Bag%20Desktop.JPG)
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Bag%20Mobile.JPG)
         </details>
+
+## Technology Used
+HTML
+CSS
+JavaScript
+Python
+Django- main framework for project
+Pip3- install packages to python
+Git- version control
+GitHub
+Gitpod
+Heroku
+Crispy forms
+Stripe
+AWS
+Bootstrap
+Font Awesome
