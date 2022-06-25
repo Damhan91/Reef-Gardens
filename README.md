@@ -1,40 +1,27 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+AM I RESPONSIVE IMAGE
 
 Welcome Damhan91,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Reef Gardens has been built for my 5th and final project for Code Institutes Full Stack Software Development program. Reef Gardens is an E-commerce Website, where customer can purchase and browse for either captive breed Marine fish or corals. The website provides a list of products that can be conveniently purchased from the store. After the user has selocted their goods, they are taken through the order confirmation process and collection of payment. This system is implemented using python and the Django framework.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## User Experince
 
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
+**Primary Goals**
+  
+**As a first time user, I want to**
+  * Easily understand the main purpose of the website.
+  * Navigate through the site with ease.
+  * View a list of specific products of my choosing based on their category. So that I can select a particular category of       product from a specific list to buy.
+  * View the details of a single product. So that I can understand the details and price of the product and also see and         image of the product.
+  * Sort the view of products by price low to high. So that I can make an informed purchased based on price.
+  * Sort the view of products by price high to low. So that I can make an informed purchased based on price.
+  * Be easily able to register and create my own account so I can have a personalised experience.
+  * Easily view the value of my shopping cart anywhere on the website. So that I can understand how much I have selected.
+  * Easily view a summary of what's in my shopping cart, including all prices such as delivery and grand total price before I purchase. So that I can see how much I will be spending.
+  * Check out and purchase my items without having to log in. So that I can conveniently purchase items quickly.
+  * Have easy and quick access to the companies social media links.
+  * Search for a specific product using keywords in a search bar
+**A customer primary goals**
 
 ## Release History
 
