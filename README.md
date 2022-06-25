@@ -153,6 +153,6 @@ Testing has been done manually throughout this website. All the features in the 
 * Footer: All the links are working to the social media pages that are showing.
 * My account: Ther drop down menu works as expected. All links also work
 * Bag: The bbag feature work as expected. The bag shows the user the value of the items that have been added to the bag throughout the website. In the bag the update and remove items feature also works, and the updating of quantity also works.
-* Checkout:
-* Newsletter:
+* Checkout: The checkout page loads all features as expected anf all forms also load as expected
+* Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
 * My profile:
