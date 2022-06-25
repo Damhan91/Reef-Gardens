@@ -73,7 +73,7 @@ The footer is located at the bottom of the website. This can be viewed from all 
   * **Newsletter Sign up**: The sign up form for newsletters is alos displayed in the footer. This allows the user to sign up for Reef Gardens Newsletter is the wish. This can also be viewed anywhere on the site
 
 ## Wireframes
-Markup : <details>
+Home : <details>
            <summary>Title 1</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
