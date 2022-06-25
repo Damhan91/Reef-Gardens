@@ -9,18 +9,18 @@ Reef Gardens has been built for my 5th and final project for Code Institutes Ful
 **Primary Goals**
   
 **As a first time user, I want to**
-  *Easily understand the main purpose of the website.
-  *Navigate through the site with ease.
-  *View a list of specific products of my choosing based on their category. So that I can select a particular category of       product from a specific list to buy.
-  *View the details of a single product. So that I can understand the details and price of the product and also see and         image of the product.
-  *Sort the view of products by price low to high. So that I can make an informed purchased based on price.
-  *Sort the view of products by price high to low. So that I can make an informed purchased based on price.
-  *Be easily able to register and create my own account so I can have a personalised experience.
-  *Easily view the value of my shopping cart anywhere on the website. So that I can understand how much I have selected.
-  *Easily view a summary of what's in my shopping cart, including all prices such as delivery and grand total price before I purchase. So that I can see how much I will be spending.
-  *Check out and purchase my items without having to log in. So that I can conveniently purchase items quickly.
-  *Have easy and quick access to the companies social media links.
-  *Search for a specific product using keywords in a search bar
+  * Easily understand the main purpose of the website.
+  * Navigate through the site with ease.
+  * View a list of specific products of my choosing based on their category. So that I can select a particular category of       product from a specific list to buy.
+  * View the details of a single product. So that I can understand the details and price of the product and also see and         image of the product.
+  * Sort the view of products by price low to high. So that I can make an informed purchased based on price.
+  * Sort the view of products by price high to low. So that I can make an informed purchased based on price.
+  * Be easily able to register and create my own account so I can have a personalised experience.
+  * Easily view the value of my shopping cart anywhere on the website. So that I can understand how much I have selected.
+  * Easily view a summary of what's in my shopping cart, including all prices such as delivery and grand total price before I purchase. So that I can see how much I will be spending.
+  * Check out and purchase my items without having to log in. So that I can conveniently purchase items quickly.
+  * Have easy and quick access to the companies social media links.
+  * Search for a specific product using keywords in a search bar
 **A customer primary goals**
 
 ## Release History
