@@ -78,42 +78,38 @@ Home<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
         </details>
 About<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
+        ![Wireframe]
+        ![Wireframe]
         </details>
 All Products<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20All%20Products%20Desktop.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20All%20Products%20Mobile.JPG)
         </details>
 Product Details<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Product%20Detail%20Desktop.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Product%20Detail%20Mobile.JPG)
         </details>
 Login<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Login%20Desktop.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Login%20Mobile.JPG)
         </details>
 Register<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Register%20Desktop.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Register%20Mobile.JPG)
         </details>
 Profile<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Profile%20Desktop.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Profile%20Mobile.JPG)
         </details>
 Add Products<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Add%20Product%20Desktop.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Add%20Product%20Mobile.JPG)
         </details>
 Checkout<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
-        </details>
-Checkout Success<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Checkout%20Desktop.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Checkout%20Mobile.JPG)
         </details>
 Bag<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Bag%20Desktop.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Bag%20Mobile.JPG)
         </details>
