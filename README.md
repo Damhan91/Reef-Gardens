@@ -124,18 +124,18 @@ Bag<details>
         </details>
 
 ## Technology Used
-HTML
-CSS
-JavaScript
-Python
-Django- main framework for project
-Pip3- install packages to python
-Git- version control
-GitHub
-Gitpod
-Heroku
-Crispy forms
-Stripe
-AWS
-Bootstrap
-Font Awesome
+HTML\
+CSS\
+JavaScript\
+Python\
+Django- main framework for project\
+Pip3- install packages to python\
+Git- version control\
+GitHub\
+Gitpod\
+Heroku\
+Crispy forms\
+Stripe\
+AWS\
+Bootstrap\
+Font Awesome\
