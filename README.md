@@ -62,9 +62,11 @@ IMAGE HERE
   * **Checkout**: The checkout is accessed throught the shopping bag. When the user is happy with what they have chosen to purchase, they are brought to the checkout area, where thjey can see the summary of what the are about to buy and update their detials.
   * **Payment**: The payment feature is used by implementing stripe. Once the user had finshed entering their shipping detisls, they can then enter their card details and are notified once their payment is successful.
 **Products**
-The producst can be views from anywhere in the website. The user can choose to view all products or choose a specific category (fish or coral), once they are on their selected category they can choose from multiple choices to filter through the products (low to high price, a-z name etc)
+The producst can be views from anywhere in the website. The user can choose to view all products or choose a specific category (fish or coral), once they are on their selected category they can choose from multiple choices to filter through the products (low to high price, a-z name etc).
+
 **About Us**
 The about us tab gives the user a short background on Reef gardens and what we are trying to achieve and accomplish.
+
 **Footer**
 The footer is located at the bottom of the website. This can be viewed from all webpages and have a few features within the footer
   * **Social Media links**: The social media links are displayed in very easy to see. it's important to have the social media link viable to ensure as many user as possible come and follow you lins.
