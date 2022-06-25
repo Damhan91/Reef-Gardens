@@ -138,4 +138,4 @@ Crispy forms\
 Stripe\
 AWS\
 Bootstrap\
-Font Awesome\
+Font Awesome
