@@ -85,10 +85,10 @@ All Products<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
         </details>
-Product Details<Product Details>
+Product Details<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
-        </Product Details>
+        </details>
 Login<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page%20Mobile.JPG)
