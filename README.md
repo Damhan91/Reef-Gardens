@@ -72,6 +72,15 @@ The footer is located at the bottom of the website. This can be viewed from all 
   * **Social Media links**: The social media links are displayed in very easy to see. it's important to have the social media link viable to ensure as many user as possible come and follow you lins.
   * **Newsletter Sign up**: The sign up form for newsletters is alos displayed in the footer. This allows the user to sign up for Reef Gardens Newsletter is the wish. This can also be viewed anywhere on the site
 
+**Top Header**
+  
+  * Add a blog section
+  * Add a video tutorial section
+  * Add favorites to Profile
+  * Add dry goods
+  * Log in with Social Media
+  * Add discount for active members (accumulate points with every purchase)
+
 ## Wireframes
 Home<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)
