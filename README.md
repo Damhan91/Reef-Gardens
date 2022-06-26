@@ -159,3 +159,9 @@ Testing has been done manually throughout this website. All the features in the 
 * Checkout: The checkout page loads all features as expected anf all forms also load as expected
 * Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
 * My profile:
+
+**Validator Testing**
+
+## Deployment
+
+## Credits
