@@ -164,7 +164,8 @@ Testing has been done manually throughout this website. All the features in the 
 
 ## Deployment
 
-**Heroku**
+**Heroku**\
+
 This application has been deployed from Github using Heroku.
 
 * Create an account at heroku.com
@@ -177,7 +178,9 @@ This application has been deployed from Github using Heroku.
 * Enter your repository name and click on it when it shows below
 * Choose the branch you want to buid your app from* 
 
-**AWS**
+**AWS**\
+
+The deployed website has static and media files. These are hosted using Amazon Web Services (AWS)\
 
 * Create an account at aws.amazon.com
 * Navigate to the IAM application and create a user and group
