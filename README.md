@@ -188,3 +188,6 @@ The deployed website has static and media files. These are hosted using Amazon W
 * Create a new Bucket within the S3 application with an appropriate name.
 * Enable public access for your bucket so users can access and use the services on your website (upload, view, download, etc).
 ## Credits
+I had no data on the images for I taken the images from a local aquarium store link below.
+
+https://www.seahorseaquariums.com/store/ 
