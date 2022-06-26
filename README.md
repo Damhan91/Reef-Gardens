@@ -49,7 +49,7 @@ The business flow is as follows:
 For marketing Reef Gardens will use a FaceBook Business Page. Reef Gardens will also use Mailchimp for user who wish to sign up. The user will be given a notification once they have successfully sign up.
 
 Facebook Business Page<details>
-        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20Home%20Page.JPG)        
+        ![Facebook](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Facebook.png)        
         </details>
 **Search Engine Optimisation**
 
