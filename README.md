@@ -148,17 +148,17 @@ Font Awesome
 ## Data Model
 
 ## Testing
-Testing has been done manually throughout this website. All the features in the site have gone through testing on both desktop and mobile version
+Testing has been done manually throughout this website. All the features in the site have gone through testing on both desktop and mobile version.
 
 * Login/logout/register: The user can login, logout out and register with no errors and the pop-up messages are also appearing.
 * Search bar:  The search bar is working and is showing the products that contain the searched word.
-* Navigation bar: All the links to all products, fish, coral and about us work correctly. All items are categorised and are appearing in the correct tab. The tabs also condense in mobile format, and the links also work in that format
+* Navigation bar: All the links to all products, fish, coral and about us work correctly. All items are categorised and are appearing in the correct tab. The tabs also condense in mobile format, and the links also work in that format.
 * Footer: All the links are working to the social media pages that are showing.
-* My account: Ther drop down menu works as expected. All links also work
+* My account: Ther drop down menu works as expected. All links also work.
 * Bag: The bag feature work as expected. The bag shows the user the value of the items that have been added to the bag throughout the website. In the bag the update and remove items feature also works, and the updating of quantity also works.
 * Checkout: The checkout page loads all features as expected and all forms also load as expected.
 * Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
-* My profile:
+* My Account: 
 
 **Validator Testing**
 
@@ -168,23 +168,23 @@ Testing has been done manually throughout this website. All the features in the 
 
 This application has been deployed from Github using Heroku.
 
-* Create an account at heroku.com
-* Create a new app, add app name and your region
-* Click on create app
-* Go to "Settings"
-* Under Config Vars, add your sensitive data (creds.json for example)
+* Create an account at heroku.com.
+* Create a new app, add app name and your region.
+* Click on create app.
+* Go to "Settings".
+* Under Config Vars, add your sensitive data (creds.json for example).
 * For this project, I set buildpacks to and in that order.
-* Go to "Deploy" and at "Deployment method", click on "Connect to Github"
-* Enter your repository name and click on it when it shows below
-* Choose the branch you want to buid your app from* 
+* Go to "Deploy" and at "Deployment method", click on "Connect to Github".
+* Enter your repository name and click on it when it shows below.
+* Choose the branch you want to buid your app from.
 
 **AWS**
 
 The deployed website has static and media files. These are hosted using Amazon Web Services (AWS)
 
-* Create an account at aws.amazon.com
-* Navigate to the IAM application and create a user and group
-* Set the AmazonS3FullAccess for the user and copy the AWS ACCESS and SECRET keys as config vars to your workspace and deployment environment
+* Create an account at aws.amazon.com.
+* Navigate to the IAM application and create a user and group.
+* Set the AmazonS3FullAccess for the user and copy the AWS ACCESS and SECRET keys as config vars to your workspace and deployment environment.
 * Create a new Bucket within the S3 application with an appropriate name.
 * Enable public access for your bucket so users can access and use the services on your website (upload, view, download, etc).
 ## Credits
