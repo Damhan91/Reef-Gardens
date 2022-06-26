@@ -13,8 +13,8 @@ Link to Reef Gardens can be found [Here][Link here]
   * Be able to navigate through the website with ease
   * View the list of products based on their category.
   * View the details of a single products, so I can understand the details, price and rating if any.
-  * Sort the view of products by price low to high. So that I can make an informed purchased based on price.
-  * Sort the view of products by price high to low. So that I can make an informed purchased based on price.
+  * I can add product to my bag with "add to bag"
+  * Sort the view of products by price low to high. So that I can make an informed purchased based on price.  * 
   * Be able to register for an account, which would allow me to have a more personalised experience.
   * Easily view the value of my shopping cart anywhere on the website. So that I can understand how much I have selected.
   * I want to be able to easily view the total amount in my shopping kart anywhere on the website. This will help me understand how much my total spend is.
