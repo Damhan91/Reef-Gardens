@@ -164,4 +164,24 @@ Testing has been done manually throughout this website. All the features in the 
 
 ## Deployment
 
+**Heroku**
+This application has been deployed from Github using Heroku.
+
+* Create an account at heroku.com
+* Create a new app, add app name and your region
+* Click on create app
+* Go to "Settings"
+* Under Config Vars, add your sensitive data (creds.json for example)
+* For this project, I set buildpacks to and in that order.
+* Go to "Deploy" and at "Deployment method", click on "Connect to Github"
+* Enter your repository name and click on it when it shows below
+* Choose the branch you want to buid your app from* 
+
+**AWS**
+
+* Create an account at aws.amazon.com
+* Navigate to the IAM application and create a user and group
+* Set the AmazonS3FullAccess for the user and copy the AWS ACCESS and SECRET keys as config vars to your workspace and deployment environment
+* Create a new Bucket within the S3 application with an appropriate name.
+* Enable public access for your bucket so users can access and use the services on your website (upload, view, download, etc).
 ## Credits
