@@ -15,11 +15,11 @@ Link to Reef Gardens can be found [Here][Link here]
   * View the details of a single products, so I can understand the details, price and rating if any.
   * I can add product to my bag with "add to bag" so that I can purchase the item.
   * I can click the remove button, so that I can easily remove products from my cart.
-  * Sort the view of products by price low to high. So that I can make an informed purchased based on price.  * 
+  * Sort the view of products by price low to high. So that I can make an informed purchased based on price.
   * Be able to register for an account, which would allow me to have a more personalised experience.
   * Easily view the value of my shopping cart anywhere on the website. So that I can understand how much I have selected.
   * I want to be able to easily view the total amount in my shopping kart anywhere on the website. This will help me understand how much my total spend is.
-  * I want to be able to see what products are in my shopping bag, so I can make adjustments if necessary.  * 
+  * I want to be able to see what products are in my shopping bag, so I can make adjustments if necessary.
   * Access to the companies social media links.
   * Easily search for items in the search bar.
   * Be able to sign up to a newsletter if I choose to do so. This will allow me to keep up do date with the companies newsletters
