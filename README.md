@@ -128,6 +128,8 @@ Bag<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Bag%20Mobile.JPG)
         </details>
 
+## Colour and Design
+
 ## Technology Used
 HTML\
 CSS\
