@@ -12,8 +12,11 @@ body {
 
 /* Footer */
 
-footer {
+.footer{
     position: fixed;
+}
+
+footer {    
     background-color: white;
     width: 100%;
     position: relative;
