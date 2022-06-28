@@ -219,3 +219,5 @@ The deployed website has static and media files. These are hosted using Amazon W
 I had no data on the images for I taken the images from a local aquarium store link below.
 
 https://www.seahorseaquariums.com/store/ 
+
+I would also like to thank everyone at code institute from my mentor to the tutuor support and people on slack. They have been a great support to me over this project 
