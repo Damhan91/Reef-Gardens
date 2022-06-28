@@ -160,7 +160,7 @@ Testing has been done manually throughout this website. All the features in the 
 * Bag: The bag feature work as expected. The bag shows the user the value of the items that have been added to the bag throughout the website. In the bag the update and remove items feature also works, and the updating of quantity also works.
 * Checkout: The checkout page loads all features as expected and all forms also load as expected.
 * Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
-* My Account: 
+* My Account: The My accoutn section all features work. The drop doen works as expected and the dropdown url take you to the correct form for either sign up and register.
 
 ### Css testing
 
