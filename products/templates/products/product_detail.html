@@ -95,6 +95,26 @@
             </div>
         </div>
     </div>
+    <div class="col-12 col-sm-8 offset-sm-2">
+        <hr>
+        <h2 class="text-center ">Read out latest reviews of {{ product.name }}</h2>
+        <p class="text-center">Leave us a review <a href="{% url 'add_review' product.id %}"
+                class="btn-black btn-sm rounded-0 ml-4">Add a review</a> </p>
+        {% for review in reviews %}
+        <p class="mb-0 lead font-weight-bold">{{ review.title }}</p>
+        <p class="text-justified">{{ review.body }}</p>
+        {% if request.user.is_superuser or review.username == request.user %}
+            <small class="ml-3">
+                <a href="{% url 'edit_review' review.id %}">Edit</a> | 
+                <a class="text-danger" href="{% url 'delete_review' review.id %}">Delete</a>
+            </small>
+        {% endif %}
+        <p class="mt-2 mb-0 small font-weight-bold">Posted by: {{ review.username}}</p>
+        <p class="mb-0 small">First posted on: {{ review.firstcreated }}</p>
+        <p class="small">Last editted on : {{ review.lasteditted }}</p>
+        <hr class="w-25">
+        {% endfor %}
+    </div>
 {% endblock %}
 
 {% block postloadjs %}
