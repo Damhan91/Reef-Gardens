@@ -63,7 +63,7 @@ I researched some of the most popular words that is used for searching for tropi
   * **Navigation bar**: The navigation bar is available throughout the website. This ensures that the user can access any page ant any time. It helps the user move through the website with ease.  
   * **Search Bar**: The navigation bar is available throughout the website. This gives the user a great experience in searching for an item quickly,
   * **Login/Logout and Register**: This is located at the top right-hand corner of the website. This feature allows a user to either login, logout, or register.
-  * **Shopping bag**: Again, the shopping bag is also located in the top right-hand corner of the website, which ensure the user will always have visibility to the value of the shopping bag and is also available throughout the website
+  * **Shopping bag**: Again, the shopping bag is also located in the top right-hand corner of the website, which ensure the user will always have visibility to the value of the shopping bag and is also available throughout the website. The increase and decrease buttons also work as expected.
   * **Checkout**: The checkout is accessed through the shopping bag. When the user is happy with what they have chosen to purchase, they are brought to the checkout area, where they can see the summary of what they are about to buy and update their details.
   * **Payment**: The payment feature is used by implementing stripe. Once the user had finished entering their shipping details, they can then enter their card details and are notified once their payment is successful.
 **Products**
