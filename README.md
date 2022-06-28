@@ -148,7 +148,9 @@ Bootstrap\
 Font Awesome
 
 ## Data Model
-
+Data Model <details>  
+  ![datamodel](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/data%20model.JPG)  
+        </details>
 ## Testing
 Testing has been done manually throughout this website. All the features in the site have gone through testing on both desktop and mobile version.
 
@@ -190,6 +192,32 @@ Country Field Js<details>
 
 ### PEP8 testing
 All the PEP8 testing passed, with just a few python lines being to long. All secreen shots can be founf here [Here](https://github.com/Damhan91/Reef-Gardens/tree/main/readme%20images)
+
+### Validator w3
+About Us <details>  
+  ![HTML](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/About%20Us.JPG)  
+        </details>
+
+Corals <details>    
+  ![Html](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Corals.JPG)  
+        </details>
+Fish <details>  
+  ![Html](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/fish.JPG)  
+        </details>
+
+Home<details>    
+  ![Html](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Home.JPG)  
+        </details>
+Login <details>  
+  ![Html](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/login.JPG)  
+        </details>
+
+Products<details>    
+  ![Html](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Products.JPG)  
+        </details>
+Register <details>  
+  ![Html](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Register.JPG)  
+        </details>
 ## Deployment
 
 **Heroku**
