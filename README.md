@@ -129,7 +129,7 @@ Bag<details>
         </details>
 
 ## Colour and Design
-
+The colour and design is based on a very neutral but yet bright backgound, as I wanted the user to be not be distracted by colours in the background, rather their attention and focus to be on the products like the fish and corals. The onlt colour that I used was the balck banner that pointed out free shipping which I think is importnat afor a user to instantly see when coming onto the website
 ## Technology Used
 HTML\
 CSS\
