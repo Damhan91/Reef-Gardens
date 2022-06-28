@@ -46,13 +46,17 @@ body {
     margin-bottom:20px;
     font-size: 30px;
     font-weight: 600;
-    text-transform: uppercase;
-    background-image: linear-gradient(to left, #2b2ebe, #070707);
 }
 
 .para {
     font-size: 20px;
 }
+
+.image {
+    background: url('/media/home_page.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
 
 /* from Bulma */
 .icon {
