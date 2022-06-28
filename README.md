@@ -63,7 +63,7 @@ I researched some of the most popular words that is used for searching for tropi
   * **Navigation bar**: The navigation bar is available throughout the website. This ensures that the user can access any page ant any time. It helps the user move through the website with ease.  
   * **Search Bar**: The navigation bar is available throughout the website. This gives the user a great experience in searching for an item quickly,
   * **Login/Logout and Register**: This is located at the top right-hand corner of the website. This feature allows a user to either login, logout, or register.
-  * **Shopping bag**: Again, the shopping bag is also located in the top right-hand corner of the website, which ensure the user will always have visibility to the value of the shopping bag and is also available throughout the website
+  * **Shopping bag**: Again, the shopping bag is also located in the top right-hand corner of the website, which ensure the user will always have visibility to the value of the shopping bag and is also available throughout the website. The increase and decrease buttons also work as expected.
   * **Checkout**: The checkout is accessed through the shopping bag. When the user is happy with what they have chosen to purchase, they are brought to the checkout area, where they can see the summary of what they are about to buy and update their details.
   * **Payment**: The payment feature is used by implementing stripe. Once the user had finished entering their shipping details, they can then enter their card details and are notified once their payment is successful.
 **Products**
@@ -129,7 +129,7 @@ Bag<details>
         </details>
 
 ## Colour and Design
-
+The colour and design is based on a very neutral but yet bright backgound, as I wanted the user to be not be distracted by colours in the background, rather their attention and focus to be on the products like the fish and corals. The onlt colour that I used was the balck banner that pointed out free shipping which I think is importnat afor a user to instantly see when coming onto the website
 ## Technology Used
 HTML\
 CSS\
@@ -160,10 +160,35 @@ Testing has been done manually throughout this website. All the features in the 
 * Bag: The bag feature work as expected. The bag shows the user the value of the items that have been added to the bag throughout the website. In the bag the update and remove items feature also works, and the updating of quantity also works.
 * Checkout: The checkout page loads all features as expected and all forms also load as expected.
 * Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
-* My Account: 
+* My Account: The My accoutn section all features work. The drop doen works as expected and the dropdown url take you to the correct form for either sign up and register.
 
-*Validator Testing*
+### Css testing
 
+Static Css<details>  
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/base.css%20test.JPG)  
+        </details>
+
+Profile Css<details>    
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Profile.css%20test.JPG)
+        </details>
+        
+Checkout Css Css<details> 
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Checkout.css%20test.JPG)
+        </details>     
+        
+### Js testing
+
+Js <details>  
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/JS%20test.JPG)  
+        </details>
+
+Country Field Js<details>    
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/countryfiled.js%20test.JPG)  
+        </details>
+
+
+### PEP8 testing
+All the PEP8 testing passed, with just a few python lines being to long. All secreen shots can be founf here [Here](https://github.com/Damhan91/Reef-Gardens/tree/main/readme%20images)
 ## Deployment
 
 **Heroku**
