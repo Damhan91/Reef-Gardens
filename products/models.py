@@ -33,10 +33,8 @@ class Product(models.Model):
 
 class Review(models.Model):
     """Model for reviews"""
-    username = models.ForeignKey(User, on_delete=models.CASCADE,
-                                 null=True, blank=True)
-    product = models.ForeignKey(Product, null=True,
-                                blank=True,
+    username = models.ForeignKey(User, on_delete=models.CASCADE, null=True, blank=True)
+    product = models.ForeignKey(Product, null=True, blank=True,
                                 related_name='reviews',
                                 on_delete=models.SET_NULL)
     title = models.CharField(max_length=200, null=True, blank=True)
