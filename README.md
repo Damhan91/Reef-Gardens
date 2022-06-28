@@ -162,7 +162,7 @@ Testing has been done manually throughout this website. All the features in the 
 * Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
 * My Account: 
 
-**Validator Testing**
+*Validator Testing*
 
 ## Deployment
 
