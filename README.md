@@ -164,6 +164,7 @@ Testing has been done manually throughout this website. All the features in the 
 * Checkout: The checkout page loads all features as expected and all forms also load as expected.
 * Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
 * My Account: The My accoutn section all features work. The drop doen works as expected and the dropdown url take you to the correct form for either sign up and register.
+* 404 error: The 404 error appears when it is necessary 
 
 ### Css testing
 
