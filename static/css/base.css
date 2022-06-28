@@ -63,6 +63,11 @@ body {
 }
 
 
+/*review box*/
+
+.review{
+    padding-top: 5rem;
+}
 /* from Bulma */
 .icon {
     align-items: center;
