@@ -162,7 +162,29 @@ Testing has been done manually throughout this website. All the features in the 
 * Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
 * My Account: 
 
-*Validator Testing*
+### Css testing
+
+Static Css<details>  
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/base.css%20test.JPG)  
+        </details>
+
+Profile Css<details>    
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Profile.css%20test.JPG)
+        </details>
+        
+Checkout Css Css<details> 
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Checkout.css%20test.JPG)
+        </details>     
+        
+### Js testing
+
+Js <details>  
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/JS%20test.JPG)  
+        </details>
+
+Country Field Js<details>    
+  ![CSS](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/countryfiled.js%20test.JPG)  
+        </details>
 
 ## Deployment
 
