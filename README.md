@@ -95,6 +95,10 @@ About<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/About%20Us%20Wireframe.JPG)
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/About%20Us%20Wireframe%20Mobile.JPG)
         </details>
+Blog<details>
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Blog%20Desktop.JPG)
+        ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Blog%20mobile.JPG)
+        </details>
 All Products<details>
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20All%20Products%20Desktop.JPG)
         ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/media/Wireframe%20All%20Products%20Mobile.JPG)
