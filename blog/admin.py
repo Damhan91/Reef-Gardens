@@ -3,7 +3,7 @@ from .models import Blog
 
 
 @admin.register(Blog)
-class BlogPostAdmin(admin.ModelAdmin):
+class BlogAdmin(admin.ModelAdmin):
     """ Admin view for Blog Posts """
     list_display = ('title', 'created', 'updated')
     search_fields = ('title', 'body')
