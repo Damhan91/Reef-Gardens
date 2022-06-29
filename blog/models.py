@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Blog(models.Model):
-    """BlogPost model"""
+    """Blog model"""
 
     title = models.CharField(max_length=254)
     body = models.TextField()
