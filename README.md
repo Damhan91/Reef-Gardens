@@ -72,6 +72,9 @@ The product can be views from anywhere in the website. The user can choose to vi
 **About Us**
 The about us tab gives the user a short background on Reef gardens and what we are trying to achieve and accomplish.
 
+**Blog**
+The blog section is where blogs for tips an news will be posted for the user to read.
+
 **Footer**
 The footer is located at the bottom of the website. This can be viewed from all webpages and have a few features within the footer
   * **Social Media links**: The social media links are displayed in very easy to see. it's important to have the social media link viable to ensure as many users as possible come and follow you links.
