@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block page_header %}
+<div class="container header-container">
+    <div class="row">
+        <div class="col"></div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="overlay"></div>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <hr>
+            <h5 class="logo-font mb-4">Reef Gardens Blog</h5>
+            <hr>
+        </div>
+        <div class="col-12 my-auto">
+            {% for post in posts %}                        
+                <p class="lead">{{ post.title }}</p>
+                <p>{{ post.body | safe }}</p>
+                {% if post.image %}
+                    <div class="my-3 text-center">
+                        <img src="{{ post.image.url }}" alt="{{ post.title }}" class="img-fluid">
+                    </div>
+                {% else %}
+                {% endif %}
+                <p class="small d-block d-md-inline"><strong>Created:</strong> {{ post.created }}</p>
+                {% if post.updated %}
+                    <p class="small d-block d-md-inline"><strong>Updated:</strong> {{ post.updated }}</p>
+                {% endif %}
+                <hr>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}
