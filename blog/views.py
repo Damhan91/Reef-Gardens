@@ -13,4 +13,4 @@ def view_blog(request):
         'posts': posts,
     }
 
-    return render(request, template, context)
+    return render(request, 'blog/blog.html')
