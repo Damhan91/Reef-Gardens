@@ -7,7 +7,7 @@ def view_blog(request):
 
     posts = Blog.objects.all()
 
-    template = 'blog/blog.html'
+    template = 'blog/templates/blog.html'
     context = {
         'posts': posts,
     }
