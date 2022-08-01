@@ -6,4 +6,4 @@ Disallow: /checkout/
 Disallow: /checkout/order_confirmation/
 Disallow: /products/add/
 Disallow: /products/edit/
-Sitemap:
+Sitemap: https://reef-gardens.herokuapp.com/sitemaps.xml
