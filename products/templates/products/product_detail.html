@@ -97,7 +97,7 @@
     </div>
     <div class="col-12 col-sm-8 offset-sm-2">
         <hr>
-        <h2 class="text-center ">Read out latest reviews of {{ product.name }}</h2>
+        <h2 class="text-center ">Read our latest reviews of {{ product.name }}</h2>
         <p class="text-center">Leave us a review <a href="{% url 'add_review' product.id %}"
                 class="btn-black btn-sm rounded-0 ml-4">Add a review</a> </p>
         {% for review in reviews %}
