@@ -38,7 +38,7 @@ class Review(models.Model):
                                 related_name='reviews',
                                 on_delete=models.SET_NULL)
     title = models.CharField(max_length=200, null=True, blank=True)
-    body = models.CharField(max_length=1000)
+    body = models.TextField(max_length=1000)
     firstcreated = models.DateTimeField(auto_now_add=True)
     lasteditted = models.DateTimeField(auto_now=True)
 
