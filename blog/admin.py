@@ -10,3 +10,11 @@ class BlogPostAdmin(SummernoteModelAdmin):
     search_fields = ('title', 'body')
     list_filter = ('title', 'created')
     summernote_fields = ('body')
+    
+
+class CommentAdmin(admin.ModelAdmin):
+    list_display = (
+        'product',
+        'username',
+        'firstcreated',
+    )
