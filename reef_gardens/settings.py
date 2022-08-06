@@ -55,6 +55,7 @@ INSTALLED_APPS = [
     'bag',
     'checkout',
     'crispy_forms',
+    "crispy_bootstrap5",
     'profiles',
     'storages',
     'about',
@@ -74,7 +75,9 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'reef_gardens.urls'
 
-CRIPSY_TEMPLATE_PACK = 'bootstrap4'
+CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
+
+CRISPY_TEMPLATE_PACK = "bootstrap5"
 
 TEMPLATES = [
     {
