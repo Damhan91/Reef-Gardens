@@ -69,6 +69,13 @@ body {
     padding-top: 5rem;
 }
 
+
+/* Contact Us*/
+
+.contact {
+    padding-top: 3px;
+    width: 100%;
+}
 /* from Bulma */
 .icon {
     align-items: center;
