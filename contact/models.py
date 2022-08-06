@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Contact(models.Model):
-    """ Schema for the ContactUs model """
+    """ The Contact model """
 
     class Meta:
         verbose_name_plural = 'Contact Us'
