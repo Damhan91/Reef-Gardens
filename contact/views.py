@@ -3,7 +3,7 @@ from django.contrib import messages
 from .forms import ContactForm
 
 
-def contact_us(request):
+def contact(request):
     """
     Display the contact us form and handle submission
     """
