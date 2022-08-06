@@ -1,5 +1,5 @@
 .order-history {
-    max-height: 416px; /* height of profile form + submit button */
+    max-height: 416px;
     overflow-y: auto;
 }
 
@@ -16,6 +16,7 @@
     color: #000;
 }
 
+#id_default_country,
 #id_default_country option:first-child {
-    color: #aab7c4;
+    color: #aab7c4;    
 }
