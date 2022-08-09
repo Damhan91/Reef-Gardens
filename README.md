@@ -264,6 +264,18 @@ Register <details>
         </details>
 ## Deployment
 
+
+**Gitpod**
+* Create new repository from CI template
+* Install Django and required libaries into Gitpod workspace
+* Create new Django project called "Reef Gardens"
+* Create procfile as required
+* Run "pip3 freeze --local > requirements.txt" to update requirements file
+* Ensure all required files up-to-date and that application is working
+* Run "pip3 freeze --local > requirements.txt" to update requirements file
+* Ensure "DEBUG = False" set in settings.py
+* Perform commit and push to GitHub
+
 **Heroku**
 
 This application has been deployed from Github using Heroku.
