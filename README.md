@@ -161,9 +161,12 @@ Data Model <details>
 ## Testing
 Testing has been done manually throughout this website. All the features in the site have gone through testing on both desktop and mobile version.
 
-* Product Assortment:
-* Product Details:
-* Product Reviews
+* Product Assortment: As a site user I can browse the website for products I may want to buy.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/testingproducts.JPG)
+* Product Details: As a site user I canb view the product details.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/testingproduct.JPG)
+* Product Reviews: As I site user I can view the reviews of the product.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/product%20reviews.JPG)
 * Search bar:  The search bar is working and is showing the products that contain the searched word.
 * Products: All filters on the product pages work as expected. Products can also be delted and update by the super user only (as expected) and not by a site user.
 * Navigation bar: All the links to all products, fish, coral and about us work correctly. All items are categorised and are appearing in the correct tab. The tabs also condense in mobile format, and the links also work in that format.
