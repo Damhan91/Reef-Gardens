@@ -162,9 +162,10 @@ Data Model <details>
 Testing has been done manually throughout this website. All the features in the site have gone through testing on both desktop and mobile version.
 
 * Product Assortment:
+* Product Details:
+* Product Reviews
 * Search bar:  The search bar is working and is showing the products that contain the searched word.
 * Products: All filters on the product pages work as expected. Products can also be delted and update by the super user only (as expected) and not by a site user.
-* Product reviews:
 * Navigation bar: All the links to all products, fish, coral and about us work correctly. All items are categorised and are appearing in the correct tab. The tabs also condense in mobile format, and the links also work in that format.
 * Bag: The bag feature work as expected. The bag shows the user the value of the items that have been added to the bag throughout the website. In the bag the update and remove items feature also works, and the updating of quantity also works.
 * Checkout: The checkout page loads all features as expected and all forms also load as expected.
