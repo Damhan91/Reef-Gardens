@@ -179,7 +179,14 @@ Testing has been done manually throughout this website. All the features in the 
  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/add%20to%20bag%201.JPG)
 * Checkout: The user can perfrom a checkout and pay for their products that have chosen to purchase.
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/checkout.JPG)
-* Login/logout/register: The user can login, logout out and register with no errors and the pop-up messages are also appearing.
+* Register: The user can register for an account so they can get addtional features of the website.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Sign%20up.JPG)
+* Login: THe user can log in to then use the features reserved for signed up members
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Sign%20In.JPG)
+* Logged in: The user is notified when they are logged in.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/logged%20in.JPG)
+* Logout: The user can log out of their account incase they do not wish to be kept logged in.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Sign%20out.JPG)
 * My account: Ther drop down menu works as expected. All links also work.
 * My profile:
 * Contact Us:
