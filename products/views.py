@@ -180,7 +180,7 @@ def add_review(request, product_id):
     """The view to add a review to the site"""
 
     product = get_object_or_404(Product, pk=product_id)
-
+    
     if request.method == 'POST':
         form = ReviewForm(request.POST)
         if form.is_valid():
@@ -215,6 +215,11 @@ def edit_review(request, review_id):
     """ Edit a review of a product """
 
     review = get_object_or_404(Review, pk=review_id)
+    
+    if request.user != review.username:
+        messages.error(request, 'Action not allowed')
+        return redirect(reverse('home'))
+    
     if request.method == 'POST':
         form = ReviewForm(request.POST, instance=review)
         # check if form is valid
@@ -244,7 +249,7 @@ def edit_review(request, review_id):
 @login_required
 def delete_review(request, review_id):
     """ Delete a review of a product """
-
+    
     # get the review and delete it
     review = get_object_or_404(Review, pk=review_id)
     product = review.product
