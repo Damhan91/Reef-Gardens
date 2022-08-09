@@ -195,10 +195,19 @@ Testing has been done manually throughout this website. All the features in the 
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/edit%20comment.JPG)
 * My profile: A registered user can update their infomration and also check their order history
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/account.JPG)
-* Contact Us:
-* Footer: All the links are working to the social media pages that are showing.
-* Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
-* 404 error: The 404 error appears when it is necessary 
+* Contact Us: The user can submit any question they may have to admin
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/contact%20us.JPG)
+* As the admin I can manage user accounts so that any required changes to them can be made.
+ ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/admin%20usewrs.JPG)
+* As the admin I can view messages submitted via the contact us section so that I may look intot and action anything that is needed.
+ ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/admin%20contact%20us.JPG)
+* As a site admin I can manage the content on the blog section and create or delete any that are needed.
+ ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/adming%20blog.JPG)
+* As a site admin I can manage the reviews section from either the admin or website
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/admin%20reviews.JPG)
+* As a site admin I can manage the products of the store.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/admin%20products.JPG)
+
 
 ### Css testing
 
