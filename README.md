@@ -161,16 +161,20 @@ Data Model <details>
 ## Testing
 Testing has been done manually throughout this website. All the features in the site have gone through testing on both desktop and mobile version.
 
-* Login/logout/register: The user can login, logout out and register with no errors and the pop-up messages are also appearing.
+* Product Assortment:
+* Product Details:
+* Product Reviews
 * Search bar:  The search bar is working and is showing the products that contain the searched word.
-* Navigation bar: All the links to all products, fish, coral and about us work correctly. All items are categorised and are appearing in the correct tab. The tabs also condense in mobile format, and the links also work in that format.
 * Products: All filters on the product pages work as expected. Products can also be delted and update by the super user only (as expected) and not by a site user.
-* Footer: All the links are working to the social media pages that are showing.
-* My account: Ther drop down menu works as expected. All links also work.
+* Navigation bar: All the links to all products, fish, coral and about us work correctly. All items are categorised and are appearing in the correct tab. The tabs also condense in mobile format, and the links also work in that format.
 * Bag: The bag feature work as expected. The bag shows the user the value of the items that have been added to the bag throughout the website. In the bag the update and remove items feature also works, and the updating of quantity also works.
 * Checkout: The checkout page loads all features as expected and all forms also load as expected.
+* Login/logout/register: The user can login, logout out and register with no errors and the pop-up messages are also appearing.
+* My account: Ther drop down menu works as expected. All links also work.
+* My profile:
+* Contact Us:
+* Footer: All the links are working to the social media pages that are showing.
 * Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
-* My Account: The My accoutn section all features work. The drop doen works as expected and the dropdown url take you to the correct form for either sign up and register.
 * 404 error: The 404 error appears when it is necessary 
 
 ### Css testing
