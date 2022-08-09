@@ -187,8 +187,14 @@ Testing has been done manually throughout this website. All the features in the 
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/logged%20in.JPG)
 * Logout: The user can log out of their account incase they do not wish to be kept logged in.
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Sign%20out.JPG)
-* My account: Ther drop down menu works as expected. All links also work.
-* My profile:
+* Reviews: A registered user can leave a review under the products
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/add%20review.JPG)
+* Edit reviews: A registered user can edit or delete their own comments
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Edit%20review.JPG)
+* Worng User: If a user tries to edit someones elses comment they are redirected to the home page
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/edit%20comment.JPG)
+* My profile: A registered user can update their infomration and also check their order history
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/account.JPG)
 * Contact Us:
 * Footer: All the links are working to the social media pages that are showing.
 * Newsletter: Suscribing for the newletter is working correclty. Once a user signs up succesfully they are given a message after the fact.
