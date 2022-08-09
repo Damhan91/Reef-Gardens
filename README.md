@@ -161,17 +161,24 @@ Data Model <details>
 ## Testing
 Testing has been done manually throughout this website. All the features in the site have gone through testing on both desktop and mobile version.
 
-* Product Assortment: As a site user I can browse the website for products I may want to buy.
+* Product Assortment: AAll the products appear as expected with the correct price and nname showing
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/testingproducts.JPG)
-* Product Details: As a site user I canb view the product details.
+* Product Details: All the product details are showing correctly. The correct price and product descrption are showing for each product
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/testingproduct.JPG)
-* Product Reviews: As I site user I can view the reviews of the product.
+* Product Reviews: The product reviews are showing correctly. With the correct user name and date appearing
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/product%20reviews.JPG)
 * Search bar:  The search bar is working and is showing the products that contain the searched word.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/testing%20search.JPG)
 * Products: All filters on the product pages work as expected. Products can also be delted and update by the super user only (as expected) and not by a site user.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/testing%20sorting.JPG)
 * Navigation bar: All the links to all products, fish, coral and about us work correctly. All items are categorised and are appearing in the correct tab. The tabs also condense in mobile format, and the links also work in that format.
-* Bag: The bag feature work as expected. The bag shows the user the value of the items that have been added to the bag throughout the website. In the bag the update and remove items feature also works, and the updating of quantity also works.
-* Checkout: The checkout page loads all features as expected and all forms also load as expected.
+ ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Nav%20testing.JPG)
+* Add item to Bag: Each product gives the user an aoption to add the item to their bag
+ ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/add%20to%20bag.JPG)
+* View contents of bag: Once a user adds the product to their bag, they can view the contents of the bag and make adjsutments where needed, either with the qty or remove the item all together
+ ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/add%20to%20bag%201.JPG)
+* Checkout: The user can perfrom a checkout and pay for their products that have chosen to purchase.
+  ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/checkout.JPG)
 * Login/logout/register: The user can login, logout out and register with no errors and the pop-up messages are also appearing.
 * My account: Ther drop down menu works as expected. All links also work.
 * My profile:
