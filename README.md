@@ -191,7 +191,7 @@ Testing has been done manually throughout this website. All the features in the 
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/add%20review.JPG)
 * Edit reviews: A registered user can edit or delete their own comments
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/Edit%20review.JPG)
-* Worng User: If a user tries to edit someones elses comment they are redirected to the home page
+* Worng User: If a user tries to edit someones elses comment they are redirected to the home page and shown an error
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/edit%20comment.JPG)
 * My profile: A registered user can update their infomration and also check their order history
   ![Wireframe](https://github.com/Damhan91/Reef-Gardens/blob/main/readme%20images/account.JPG)
